@@ -1,8 +1,8 @@
 - 👋 Hi, I am Gabrielle L Marshall.
--  I am  an AI + ML student, who holds a B.A in Psychology, A.A.S in Computer Systems Networking and Telecommunications with a concentration in Cybersecurity and currently pursuing a Masters in Applied Data Science.
+-  I am  an AI + ML student, who holds a B.A in Psychology, A.A.S in Computer Systems Networking and Telecommunications with a concentration in Cybersecurity and currently pursuing a Masters in Neuropsychology. 
   
 - 👀 I’m interested in networking with like-minded individuals and learning as much as I can about A.I + ML
-- 🌱 I’m interested in breaking through into research, business and aerospace. 
+- 🌱 I’m interested in breaking through into psychological research, business and aerospace. 
 - 💞️ I’m looking to collaborate on any discussions regarding exciting news, updates, or ethical hacking challenges. 
 - 📫 Contact me through linkedin.com/in/gabmarshall/  
 
