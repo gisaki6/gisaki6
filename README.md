@@ -1,5 +1,5 @@
 - 👋 Hi, I am Gabrielle L Marshall.
--  I am  an AI + ML student, who holds a B.A in Psychology, A.A.S in Computer Systems Networking and Telecommunications with a concentration in Cybersecurity and currently pursuing a Masters in Neuropsychology. 
+-  I am an AI + ML enthusiast who holds a B.A in Psychology, A.A.S in Computer Systems Networking and Telecommunications with a concentration in Cybersecurity and currently pursuing a Master's in Neuropsychology. 
   
 - 👀 I’m interested in networking with like-minded individuals and learning as much as I can about A.I + ML
 - 🌱 I’m interested in breaking through into psychological research, business and aerospace. 
@@ -7,6 +7,6 @@
 - 📫 Contact me through linkedin.com/in/gabmarshall/  
 
 <!---
-gisaki6/gisaki6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gisaki6/gisaki6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
 --->
